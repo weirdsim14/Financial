@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 add_executable(Overview src/overview.cpp)
+add_executable(brace src/brace_initialization.cpp)
